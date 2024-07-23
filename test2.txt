@@ -1,1 +1,1 @@
-sample code from local
+sample code from local variable
